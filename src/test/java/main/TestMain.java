@@ -7,7 +7,7 @@ public class TestMain {
     public void testResult() {
 	Main main = new Main();  
 	double result_number = main.getResult(12, 4);
-	double number = 48; 
+	double number = 448; 
 	assertEquals(number, result_number); 
     }    
 }
